@@ -12,10 +12,77 @@ body {
     rgb(214, 136, 136) 50%,
     rgb(128, 128, 128) 100%
   );
+
+  overflow: hidden;
+}
+
+/*-----PATITAS DAN------*/
+
+.patita { 
+  position: absolute;
+  left: 25%;
+  animation: patitas 5s linear infinite;
+}
+
+.patita:nth-child(1){
+  width: 120px;
+  height: 120px;
+  left: 25%;
+  animation-duration: 3s;
+  
+
+}
+
+.patita:nth-child(2){
+  width: 320px;
+  height: 320px;
+  left: 45%;
+  animation-duration: 3s;
+
+}
+
+.patita:nth-child(3){
+  width: 420px;
+  height: 420px;
+  left: 65%;
+  animation-duration: 3s;
+  
+
+}
+
+.patita:nth-child(4){
+  width: 620px;
+  height: 620px;
+  left: 85%;
+  animation-duration: 3s;
 }
 
 
-/*agrego footer---dan*/
+@keyframes patitas {
+  0%{
+    bottom: 70vh;
+    opacity: 0;
+  }
+  30%{
+   transform: translateX(30px);
+  }
+
+  50%{
+    
+    opacity: .4;
+  }
+  100%{
+    bottom: 0vh;
+    opacity: 0;
+  }
+
+}
+
+/*-FIN----PATITAS DAN----*/
+
+
+
+/*agrego footer---dan-----*/
 footer{
   
   background-color: rgb(70, 68, 68);
@@ -23,4 +90,4 @@ footer{
   font-weight: 600;
   color: white;
 }
-/*fin---agrego footer---dan*/
+/*fin---agrego footer---dan----*/
