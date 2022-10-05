@@ -1,6 +1,21 @@
+/*AGREGO MOVIMIENTO AL TÍTULO----DAN*/
+let txt = "♥Patitas Felices♥ ";
+let espera = 100;
+let refresca = null;
+
+function titulo() {
+	document.title = txt;
+	txt = txt.substring(1,txt.length)+txt.charAt(0);
+	refresca = setTimeout("titulo()", espera);
+		
+}
+titulo();
+
+/*FIN-----AGREGO MOVIMIENTO AL TÍTULO----DAN*/
+
 $(document).ready(function(){
   $('.carrousel').slick({
-    setting-name: setting-value
+    setting:name, setting:value
   });
 });
 

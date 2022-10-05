@@ -1,4 +1,11 @@
+/*QUITO MARGEN A TODO DAN*/
+*{
+  margin: 0px !important;
+}
+/*FIN QUITO MARGEN A TODO DAN*/
+
 body {
+  
   background: linear-gradient(
     90deg,
     rgb(192, 181, 143) 0%,
@@ -6,3 +13,14 @@ body {
     rgb(128, 128, 128) 100%
   );
 }
+
+
+/*agrego footer---dan*/
+footer{
+  
+  background-color: rgb(70, 68, 68);
+  text-align: center;
+  font-weight: 600;
+  color: white;
+}
+/*fin---agrego footer---dan*/
