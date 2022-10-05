@@ -1,0 +1,269 @@
+
+[{
+    "nombre":"Tequila",
+    "edad":3,
+    "raza":"chiuahua",
+    "sexo":"hembra",
+    "pelaje":"negro con marrón",
+    "vacunado": true, 
+    "desparasitado": true,
+    "castrado":false,
+    "tamaño":"mini",
+    "caracteristicas":[
+        "malvada",
+        "guardian",
+        "juguetón",
+        "temperamental"
+    ],
+    "img": "https://media.istockphoto.com/photos/closeup-angry-little-black-dog-of-toy-terrier-breed-on-a-white-focus-picture-id1270859869?k=20&m=1270859869&s=612x612&w=0&h=WaoxItw5HwIfOHEB1qmCK6HmoQaDw7ecuLRBwqTHj4w="
+},
+{
+    "nombre": "Vato",
+    "edad": 5,
+    "raza": "siames",
+    "sexo": "macho",
+    "pelaje": "negro",
+    "vacunado": true,
+    "desparasitado": true,
+    "castrado": false,
+    "tamaño": "mediano",
+    "caracteristicas": ["franelero", "dormilon"]
+  },
+  {
+    "nombre":"Raul",
+    "edad":7,
+    "raza":"ruso",
+    "sexo":"hembra",
+    "pelaje":"azul",
+    "vacunado":false, 
+    "desparasitado": true,
+    "castrado":false,
+    "tamaño":"grande",
+    "caracteristicas":[
+        "arisco",
+        "gruñon",
+        "juguetón"
+    ],
+    "img":"https://gatos10.com/wp-content/uploads/2017/03/0be197b3a0332338a48632eebe65a458.jpg" 
+},
+{
+    "nombre":"Elias",
+    "edad":3,
+    "raza":"siames",
+    "sexo":"macho",
+    "pelaje":"marrón claro y negro",
+    "vacunado": true, 
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"mediano",
+    "caracteristicas":[
+        "tranquilo",
+        "amigable",
+        "cariñoso"
+    ]
+},
+{
+    "nombre": "Dan",
+    "edad": 2,
+    "raza": "Munchkin",
+    "sexo": "Macho",
+    "pelaje": "Atigrado",
+    "vacunado": true,
+    "desparasitado": true,
+    "castrado": false,
+    "tamaño": "Chico",
+    "caracteristicas": ["Mimoso", "Juguetón"],
+    "img":"https://i.pinimg.com/474x/0c/d0/47/0cd047dceffe283b7f4c16b626cdee55--short-legs-munchkin-kitten.jpg" 
+
+  },
+  {
+    "nombre":"JuanCat",
+    "edad":1,
+    "raza":"Común europeo",
+    "sexo":"macho",
+    "pelaje":"anaranjado y blanco",
+    "vacunado": true, 
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"mediano",
+    "caracteristicas":[
+        "extremadamente curioso",
+        "amigable",
+        "juguetón",
+        "cariñoso",
+        "pide salir a pasear"
+    ],
+    "img":"https://photos.app.goo.gl/5Zw4FvoS1bRb9zcv9"
+},
+{
+    "nombre" : "Bruma",
+    "edad" : 1,
+    "raza" : "pirulx",
+    "sexo" : "hembra",
+    "pelaje":"gris",
+    "vacunado" : true,
+    "desparasitado" : true,
+    "castrado" : true, 
+    "tamaño" : "pequeño",
+    "caracteristicas": "juguetona",
+    "img": "https://cdn.pixabay.com/photo/2019/11/08/11/56/kitten-4611189_960_720.jpg"
+},
+{
+    "nombre":"Pelusa",
+    "edad":4,
+    "raza":"persa",
+    "sexo":"hembra",
+    "pelaje":"largo",
+    "vacunado":false, 
+    "desparasitado": false,
+    "castrado":false,
+    "tamaño":"mediano",
+    "caracteristicas":[
+        "mimosa",
+        "risueña",
+        "juguetóna"
+    ],
+    "img":"https://t2.ea.ltmcdn.com/es/posts/2/5/2/nombres_para_gatos_persas_machos_y_hembras_24252_600.jpg" 
+},
+{
+    "nombre":"Emma",
+    "edad":2,
+    "raza":"munchkin",
+    "sexo":"hembra",
+    "pelaje":"marrón",
+    "vacunado": true, 
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"pequeño",
+    "caracteristicas":[
+        "mimoso",
+        "amigable",
+        "juguetón",
+        "cariñoso"
+    ],
+    "img": "https://michigato.com/wp-content/uploads/2021/03/gatto-munchkin-cat.jpg"
+},
+{
+    "nombre": "Daker",
+    "edad": 1,
+    "raza": "siberiano",
+    "sexo": "macho",
+    "pelaje": "gris",
+    "vacunado": true,
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño": "pequeño",
+    "caracteristicas": [
+        "jugueton", 
+        "cariñoso", 
+        "mimoso"
+    ],
+    "img": "https://http2.mlstatic.com/D_NQ_NP_887655-MCO48637408705_122021-O.jpg"
+},
+{
+    "nombre":"Bills",
+    "edad":2,
+    "raza":"bambino",
+    "sexo":"macho",
+    "pelaje":"sin pelo",
+    "vacunado":true,
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"mediano",
+    "caracteristicas":[
+        "dios de la destruccion",
+        "duerme",
+        "combate"
+    ],
+    "img":"https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=460,height=600,fit=cover/animal/breed/pictures/613f5a38b32b0632926026.jpg" 
+},
+{
+    "nombre":"Coloso",
+    "edad":6,
+    "raza":"Maine Coon",
+    "sexo":"macho",
+    "pelaje":"gris rayado",
+    "vacunado":true, 
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"gigante",
+    "caracteristicas":[
+        "pacífico",
+        "mimoso",
+        "obediente"
+    ],
+    "img":"https://i.redd.it/jyxaqgvdy8o61.jpg" 
+},
+{
+    "nombre":"Colores",
+    "edad":6,
+    "raza":"khao manee",
+    "sexo":"macho",
+    "pelaje":"corto",
+    "vacunado":true, 
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"grande",
+    "caracteristicas":[
+        "modela en revistas",
+        "duerme",
+        "seduce por las mañanas"
+    ],
+    "img":"https://i.pinimg.com/736x/e8/9d/d3/e89dd3ac07d98d8b4af053e3421cd446.jpg" 
+},
+{
+    "nombre":"Luna",
+    "edad":3,
+    "raza":"Americano de pelo corto",
+    "sexo":"Hembra",
+    "pelaje":"Gris con rayas negras",
+    "vacunado": true, 
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"Mediano",
+    "caracteristicas":[
+        "tranquila",
+        "amigable",
+        "cariñosa"
+    ],
+	"img":"https://t1.ea.ltmcdn.com/es/razas/1/7/8/gato-americano-de-pelo-corto_871_0_300_square.webp"
+},
+{
+    "nombre":"Hachiko",
+    "edad":6,
+    "raza":"akita",
+    "sexo":"macho",
+    "pelaje":"corto",
+    "vacunado":"si", 
+    "desparasitado": "si",
+    "castrado":"si",
+    "tamaño":"grande",
+    "caracteristicas":[
+        "compañero",
+        "duerme",
+        "es paciente",
+        "Le gustan los trenes"
+    ],
+    "img":"https://soyunperro.com/wp-content/uploads/2018/02/hachiko.jpg" 
+},
+{
+    "nombre":"Scooby",
+    "edad":1,
+    "raza":"salchicha",
+    "sexo":"macho",
+    "pelaje":"marrón",
+    "vacunado": true, 
+    "desparasitado": true,
+    "castrado":true,
+    "tamaño":"pequeño",
+    "caracteristicas":[
+        "mimoso",
+        "amigable",
+        "juguetón",
+        "cariñoso"
+    ],
+    "img":"https://i.pinimg.com/474x/0c/d0/47/0cd047dceffe283b7f4c16b626cdee55--short-legs-munchkin-kitten.jpg"
+}]
+
+
+       
